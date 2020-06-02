@@ -61,8 +61,11 @@ For some people the effects can be long-lasting and life-threatening. People wit
 ## Gas Masks
 
 The best protection against chemical weapons is a gas mask. There are several important factors to consider when looking for a gas mask. Shatter-proof lenses are important. For convenience, look for a mask that uses standard NATO filters. Try it on to check for limited visibility, comfort, ease of use, etc. and be sure to practice with it before you’re in the streets fumbling with unfamiliar straps.
+
 When paired with goggles, respirators make an excellent alternative to gas masks. It is necessary to do some homework beforehand and find goggles that don’t fog up and that fit tightly on your face with the respirator. Respirators can be purchased at safety supply stores. Ask for filters for organic chemicals, and tell the clerk what you’re filtering to doublecheck. Costs between $18-24.
+
 A bandana soaked in apple cider vinegar (water if nothing else) and tied tightly around the nose and mouth is a last resort. It is far better than nothing, but is not going to do much for long-term protection, and multiple uses will render it as gassy as the air around you.
+
 Shatterproof swim goggles work reasonably well to protect against pepper spray exposure. Most goggles have air holes to prevent fogging - fill these with epoxy. Covering the holes with duct tape can work against an initial attack, though not for long term protection. Try them on with your respirator or bandana to ensure that they are compatible. Note that swim goggles generally do not provide an adequate seal against tear gas.
 
 ## Sources
@@ -70,3 +73,5 @@ Shatterproof swim goggles work reasonably well to protect against pepper spray e
 1. [An Activist's Guide to Basic First Aid](first-aid.pdf). [Black Cross Health Collective](https://blackcrosscollective.org/).
 1. [Direct Action Handbook](direct-action-handbook.pdf). [LIFE asbl](https://lifeproject.lu/index.php/fr/).
 1. [Facts About Riot Control Agents Interim document](https://emergency.cdc.gov/agent/riotcontrol/factsheet.asp). [CDC](https://www.cdc.gov/).
+
+## Footnotes
