@@ -41,3 +41,5 @@ For some people the effects can be long-lasting and life-threatening. People wit
 - We recommend using a water or alcohol-based sunscreen (rather than oilbased). If your choice is between oil-based or nothing, we advocate using the sunscreen. Pepper spray on top of sunburn is not good.
 - We also recommend minimizing skin exposure by covering up as much as possible. This can also protect you from the sun, as can a hat.
 - Gas masks provide the best facial protection, if properly fitted and sealed. Alternatively, goggles (with shatter-proof lenses), respirators, even a wet bandana over the nose and mouth will help.
+## Sources
+1. [An Activist's Guide to Basic First Aid](first-aid.pdf). [Black Cross Health Collective](blackcrosscollective.org).
